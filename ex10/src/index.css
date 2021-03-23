@@ -1,0 +1,64 @@
+header {
+    width: 100%;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+#google_logo {
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    clear: both;
+    padding-top: 25%px;
+    padding-bottom: 10%;
+   padding-left: 25%;
+  }
+
+  .form {
+    text-align: center;
+  }
+
+#nav_bar {
+    float: right;
+}
+
+#nav_bar li {
+    display: inline-block;
+    padding: 5px;
+}
+
+#sign_in {
+    background-color: dodgerblue;
+    border-radius: 2px; 
+    font-weight: bolder;
+}
+
+#sign_in a {
+    color: white;
+}
+
+footer {
+    background-color: lightgrey;
+    height: 10%;
+    width: 100%;
+}
+
+footer ul li {
+    display: inline;
+    color: grey;
+    padding: 10px;
+  }
+
+  .footer-left {
+      float: left;
+  }
+
+  .footer-right {
+    float: right;
+}
